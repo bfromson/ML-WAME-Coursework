@@ -1,0 +1,2 @@
+num_units,hidden_layers,batch_size,lr,epochs,fold_splits,optName,alpha
+300,2,2048,1.00E-03,200,10,Adam,0.85

@@ -1,0 +1,6 @@
+num_units,hidden_layers,batch_size,lr,epochs,fold_splits,optName,alpha
+200,4,1024,1E-06,20,10,Wame,9.90E-01
+200,4,1024,1E-06,20,10,Wame,9.50E-01
+200,4,1024,1E-06,20,10,Wame,9.00E-01
+200,4,1024,1E-06,20,10,Wame,8.50E-01
+200,4,1024,1E-06,20,10,Wame,8.00E-01
